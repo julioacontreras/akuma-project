@@ -1,11 +1,20 @@
 ## About Akuma
 
-Akuma is a project to create project using model with templates and engines.
+Akuma is a open source project to create projects using model with templates to generate in engines.
 
-## Links
+![Flow](img/flow.png)
+
+## Akuma application
+
+Is not startted yet. Anyone interesting in participate this project please contact on Linkedin. [here](https://www.linkedin.com/in/julio-contreras-6579b623/) 
+
+## Akuma tempplate
 
 [Akuma Extension VSCODE](https://github.com/julioacontreras/akuma-template-extension-vscode)
 
 [Akuma Template Language](https://github.com/julioacontreras/akuma-project/tree/main/language)
 
-[Akuma Engine](https://github.com/julioacontreras/akuma-engine)
+## Akuma engine
+
+Link github to start creating your project. [here](https://github.com/julioacontreras/akuma-engine)
+
